@@ -1,7 +1,7 @@
 # Byte-compiled / optimized / DLL files
 
 Data/*
-Data/VGG16_Transfer_Learning.model/* filter=lfs diff=lfs merge=lfs -text
+
 
 
 
